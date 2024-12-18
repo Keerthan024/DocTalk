@@ -90,13 +90,13 @@ VITE_BACKEND_URL=http://localhost: 4000
 
 ## How It Works
 
-1. **User Registration**:Patients and doctors register with secure authentication via Bcrypt.
+1. **User Registration**: Patients and doctors register with secure authentication via Bcrypt.
 
-2. **Filtered & Book**:Patients Book the doctors using filters and book available slots.
+2. **Filtered & Book**: Patients Book the doctors using filters and book available slots.
 
-3. **Payment Processing**:Payments are handled securely using Razorpay.
+3. **Payment Processing**: Payments are handled securely using Razorpay.
 
-4. **Cloud Media Management**:User profile images and documents are uploaded and stored in Cloudinary.
+4. **Cloud Media Management**: User profile images and documents are uploaded and stored in Cloudinary.
 
 5. **Data Storage**: All reviews and university data are securely stored in MongoDB.
 
