@@ -78,15 +78,15 @@ VITE_BACKEND_URL=http://localhost: 4000
 
 ### 1. **Patient Portal**
 
-   -Register, filter for doctors, view profiles, and book appointments.
+   - Register, filter for doctors, view profiles, and book appointments.
    
 ### 2. **Doctor Dashboard**
 
-   -Manage availability, view appointments, and interact with patients.
+   - Manage availability, view appointments, and interact with patients.
    
 ### 3 **Admin Panel**
 
-   -Monitor system activity, manage user accounts, and handle payments.
+   - Monitor system activity, manage user accounts, and handle payments.
 
 ## How It Works
 
