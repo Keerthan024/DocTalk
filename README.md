@@ -13,7 +13,7 @@ The primary goal of **DocTalk** is to create a streamlined, secure, and efficien
 - **Secure Online Payments**: Integrated with Razorpay for quick, secure, and hassle-free payment processing.
 - **Data Security**: Uses advanced encryption (Bcrypt) to ensure user data privacy and secure logins.
 -  **Notifications and Reminders**: Get appointment reminders, status updates, and follow-up alerts via email and SMS.
-- **Scalable and Cloud-Enabled**: Built on Google Cloud for scalability and reliable performance.
+- **Scalable and Cloud-Enabled**: Built on Cloudinar for scalability and reliable performance.
 
 ## Technology Stack
 - **Frontend**: React.js for building a responsive and dynamic user interface.
